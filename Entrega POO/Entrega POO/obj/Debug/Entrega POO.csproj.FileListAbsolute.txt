@@ -1,0 +1,7 @@
+C:\Users\Naranja\Documents\Visual Studio 2017\Projects\Entrega POO\Entrega POO\obj\Debug\Entrega POO.csprojResolveAssemblyReference.cache
+C:\Users\Naranja\Documents\Visual Studio 2017\Projects\Entrega POO\Entrega POO\obj\Debug\Entrega POO.csproj.CoreCompileInputs.cache
+C:\Users\Naranja\Documents\Visual Studio 2017\Projects\Entrega POO\Entrega POO\bin\Debug\Entrega POO.exe.config
+C:\Users\Naranja\Documents\Visual Studio 2017\Projects\Entrega POO\Entrega POO\bin\Debug\Entrega POO.exe
+C:\Users\Naranja\Documents\Visual Studio 2017\Projects\Entrega POO\Entrega POO\bin\Debug\Entrega POO.pdb
+C:\Users\Naranja\Documents\Visual Studio 2017\Projects\Entrega POO\Entrega POO\obj\Debug\Entrega POO.exe
+C:\Users\Naranja\Documents\Visual Studio 2017\Projects\Entrega POO\Entrega POO\obj\Debug\Entrega POO.pdb
