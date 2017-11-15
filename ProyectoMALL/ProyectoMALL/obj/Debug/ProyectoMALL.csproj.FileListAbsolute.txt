@@ -1,0 +1,7 @@
+C:\Users\panch\source\repos\ProyectoMALL\ProyectoMALL\obj\Debug\ProyectoMALL.csprojResolveAssemblyReference.cache
+C:\Users\panch\source\repos\ProyectoMALL\ProyectoMALL\obj\Debug\ProyectoMALL.csproj.CoreCompileInputs.cache
+C:\Users\panch\source\repos\ProyectoMALL\ProyectoMALL\bin\Debug\ProyectoMALL.exe.config
+C:\Users\panch\source\repos\ProyectoMALL\ProyectoMALL\bin\Debug\ProyectoMALL.exe
+C:\Users\panch\source\repos\ProyectoMALL\ProyectoMALL\bin\Debug\ProyectoMALL.pdb
+C:\Users\panch\source\repos\ProyectoMALL\ProyectoMALL\obj\Debug\ProyectoMALL.exe
+C:\Users\panch\source\repos\ProyectoMALL\ProyectoMALL\obj\Debug\ProyectoMALL.pdb
